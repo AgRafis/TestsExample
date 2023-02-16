@@ -25,3 +25,4 @@ public class CafeTest {
         Assertions.assertFalse(res == "Пн - 1-ый день");
     }
 }
+
