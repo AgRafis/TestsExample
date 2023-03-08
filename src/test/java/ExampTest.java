@@ -24,3 +24,4 @@ public class ExampTest {
         Assertions.assertEquals("number 5", res);
     }
 }
+
